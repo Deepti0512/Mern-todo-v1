@@ -1,0 +1,15 @@
+GET http://localhost:5000/todos
+
+###
+POST http://localhost:5000/todo/new
+Content-Type: application/json
+
+{
+    "text": "for testing purpose"
+}
+
+###
+DELETE http://localhost:5000/todo/delete/64243cbc21ef0c08795de4ef
+
+###
+PUT http://localhost:5000/todo/update/64243ca821ef0c08795de4ed

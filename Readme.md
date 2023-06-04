@@ -1,13 +1,13 @@
 # **Todo webapp using MERN**
-
+<!-- 
 ## _Italic_
 
 ---
 - This is a bullet point
 * this is also bullet point
 
----
-_Put code in Readme_
+--- -->
+<!-- _Put code in Readme_ -->
 
 ```javascript
 const mongoose = require("mongoose");
@@ -32,7 +32,7 @@ const Todo = mongoose.model("Todo",TodoSchema);
 
 module.exports = Todo;
 ```
-I have installed a vscode extension called paste image for directly pasting screenshots.
+<!-- I have installed a vscode extension called paste image for directly pasting screenshots. -->
 
 Ui:
 
